@@ -1,0 +1,18 @@
+/* Setting up some base tokens to keep the design consistent */
+
+:root {
+  --surface-background: #fafbfb;
+  --surface-raised: #f1f1f1;
+  --surface-accent: #0d334c;
+  --surface-hero: #f1f1f1;
+
+  --text-color-default: #3b4254;
+  --text-color-heading: #1f2433;
+
+  --text-weight-light: 200;
+  --text-weight-strong: 600;
+
+  --border-radius: 5px;
+
+  --box-shadow: ;
+}

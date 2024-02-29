@@ -1,0 +1,14 @@
+@import "./_tokens.css";
+@import "./_reset.css";
+
+html,
+body {
+  height: 100%;
+  background: var(--surface-background);
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: var(--color-text-default);
+}
